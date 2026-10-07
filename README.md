@@ -8,7 +8,7 @@
 
 - 🌱 Şu anda **C#, Python, PHP** öğreniyorum
 
-- 📫 Nasıl Bana ulaşmak için **bodurzeynep07@gmail.com** adresini kullanabilirsiniz.
+- 📫 Bana ulaşmak için **bodurzeynep07@gmail.com** adresini kullanabilirsiniz.
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align ="left">
