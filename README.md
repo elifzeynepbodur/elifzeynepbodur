@@ -1,6 +1,6 @@
 ![MasterHead](https://www.gelisim.k12.tr/images/ataturk50.jpg)
 <h1 align="center">Merhaba 👋, ben Elif Zeynep Bodur</h1>
-<h3 align="center">Bilgisayar Programlama Öğrencisi</h3>
+<h3 align="center">Bilgisayar Programcılığı Öğrencisi</h3>
 
 
 
